@@ -26,7 +26,7 @@
 ---
 
 <p>
-  Copyright &copy; <script>document.write(new Date().getFullYear())</script> Lucas Witchemichen. All rights reserved.
+  Copyright &copy; 2025 Lucas Witchemichen. All rights reserved.
 </p>
 
 _Thanks for visiting my profile! ⭐️_
