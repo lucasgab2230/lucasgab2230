@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Lucas Gabriel Witchemichen  
-### Founder, CTO & Developer at @LuwiAI
+### Founder, CTO & Developer at [@LuwiAI](https://github.com/LuwiAI)
 
 ## 🧑‍💻 About Me
 
