@@ -26,7 +26,7 @@
 ---
 
 <p>
-  Copyright &copy; 2025 Lucas Witchemichen. All rights reserved.
+  Copyright &copy; 2026 Lucas Witchemichen. All rights reserved.
 </p>
 
 _Thanks for visiting my profile! ⭐️_
