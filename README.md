@@ -1,17 +1,29 @@
-# 👋 Hi there, I'm Lucas Gabriel Witchemichen  
-### Founder, CTO & Developer at [@LuwiAI](https://github.com/LuwiAI)
+# 👋 Olá, sou Lucas Gabriel Witchemichen  
+### Desenvolvedor Front-End que deseja ser Menor Aprendiz e entrar no mercado de trabalho
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre Mim
 
-- 🤖 AI Engineer passionate about using technology to make a difference.  
-- 💡 I develop software powered by AI, focused on helping underserved communities.  
-- 🌍 Committed to driving social impact through innovation.  
-- 🌱 Currently exploring full-stack development and cloud computing.  
-- 💬 Ask me about JavaScript or anything tech-related!
+- Um menino de 14 anos com autismo, TDAH e Altas Habilidades/Superdotação.
+- Gosta de Desenvolvimento Front-End
+- Deseja trabalhar com isso
+- E sou proativo, comunicativo e trabalhador.
+- Em busca de emprego.
 
 ---
 
-## 📊 GitHub Stats
+## Educação
+
+- Estudo no Colégio Estadual Professor Amarílio - Ensino Fundamental e Médio
+- Meu último ano, e, em 2027, vou para o Colégio Estadual Francisco Carneiro Martins
+
+---
+
+## Experiências
+- Nenhuma por enquanto.
+
+---
+
+## 📊 Estatísticas de meu GitHub:
 
 ![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgab2230&show_icons=true&theme=radical)
 
@@ -19,14 +31,14 @@
 
 ---
 
-## 🐍 Total Contributions Snake
+## 🐍 Cobrinha de Contribuições Totais:
 
 ![GitHub Snake](https://github.com/lucasgab2230/lucasgab2230/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 <p>
-  Copyright &copy; 2026 Lucas Witchemichen. All rights reserved.
+  Copyright &copy; 2026 Lucas Witchemichen. Todos os direitos reservados.
 </p>
 
-_Thanks for visiting my profile! ⭐️_
+_Obrigado por visitar meu perfil! ⭐️_
