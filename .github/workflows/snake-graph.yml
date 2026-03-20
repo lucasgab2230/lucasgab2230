@@ -2,8 +2,8 @@ name: Generate Snake Contribution Graph 🐍
 
 on:
   schedule:
-    # Runs every 5 minutes
-    - cron: "*/5 * * * *"
+    # Runs once a day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,12 +13,12 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: lucasgab2230
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
