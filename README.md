@@ -1,5 +1,5 @@
 # 👋 Olá, sou Lucas Gabriel Witchemichen  
-### Desenvolvedor Front-End que deseja ser Menor Aprendiz e entrar no mercado de trabalho
+### Desenvolvedor Front-End Menor Aprendiz | Next.js/React.js, JavaScript | HTML, CSS, Bootstrap, TailwindCSS | Git, GitHub, Docker, Linux | POO, Estruturas de Dados e Algoritmos
 
 ## 🧑‍💻 Sobre Mim
 
