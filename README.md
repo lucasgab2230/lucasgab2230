@@ -1,4 +1,4 @@
-# 👋 Olá, sou Lucas Gabriel Witchemichen  
+# 👋 Olá, sou Lucas Gabriel Witchemichen
 ### Desenvolvedor Front-End Menor Aprendiz
 
 ## 🧑‍💻 Sobre Mim
