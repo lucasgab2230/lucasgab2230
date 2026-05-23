@@ -48,9 +48,9 @@
 
 ### 📊 Estatísticas de meu GitHub:
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgab2230&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Lucas's GitHub Stats](https://github-readme-stats-zeta-three-10.vercel.app/api?username=lucasgab2230&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgab2230&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-zeta-three-10.vercel.app/api/top-langs/?username=lucasgab2230&layout=compact&theme=radical)
 
 ---
 
