@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 Estatísticas de meu GitHub:
+### 📊 Estatísticas de meu GitHub:
 
 ![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgab2230&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
